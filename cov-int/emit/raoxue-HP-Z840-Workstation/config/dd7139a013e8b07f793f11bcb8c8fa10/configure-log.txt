@@ -1,0 +1,9 @@
+Native Compiler invocation: /usr/bin/gcc -D INCLUDEMAIN -c CWE134_Uncontrolled_Format_String__char_console_fprintf_01.c
+Working directory: /home/raoxue/Documents/cbmc_verifed_juliet_test_case_ground_truth_new/000_079_386
+Comptype: gcc
+* Configuring /usr/bin/gcc as a C compiler
+* Configuring /usr/bin/gcc as a C++ compiler
+* Configuring /usr/bin/gcc as a C compiler
+* Configuring /usr/bin/g++ as a C++ compiler
+* Configuring /usr/bin/g++ as a C compiler
+* Configuring /usr/bin/ld as a C++ compiler

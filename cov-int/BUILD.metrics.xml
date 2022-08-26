@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coverity SYSTEM "config.dtd">
+<coverity>
+
+<metrics>
+    <metric>
+        <name>time</name>
+        <value>16</value>
+    </metric>
+    <metric>
+        <name>args</name>
+        <value>cov-build --dir cov-int make -j 4</value>
+    </metric>
+    <metric>
+        <name>host</name>
+        <value>raoxue-HP-Z840-Workstation</value>
+    </metric>
+    <metric>
+        <name>short-platform</name>
+        <value>linux64</value>
+    </metric>
+    <metric>
+        <name>platform</name>
+        <value>Linux 5.15.0-46-generic x86_64</value>
+    </metric>
+    <metric>
+        <name>ident</name>
+        <value>2020.09 (build 3412dc3383 p-upland-push-1502)</value>
+    </metric>
+    <metric>
+        <name>user</name>
+        <value>raoxue</value>
+    </metric>
+    <metric>
+        <name>cwd</name>
+        <value>/home/raoxue/Documents/cbmc_verifed_juliet_test_case_ground_truth_new/000_079_386</value>
+    </metric>
+    <metric>
+        <name>config</name>
+        <value>/home/raoxue/Downloads/cov-analysis-linux64-2020.09/config/coverity_config.xml</value>
+    </metric>
+    <metric>
+        <name>intermediatedir</name>
+        <value>/home/raoxue/Documents/cbmc_verifed_juliet_test_case_ground_truth_new/000_079_386/cov-int</value>
+    </metric>
+    <metric>
+        <name>outputdir</name>
+        <value>/home/raoxue/Documents/cbmc_verifed_juliet_test_case_ground_truth_new/000_079_386/cov-int/output</value>
+    </metric>
+    <metric>
+        <name>emitdir</name>
+        <value>/home/raoxue/Documents/cbmc_verifed_juliet_test_case_ground_truth_new/000_079_386/cov-int/emit</value>
+    </metric>
+    <metric>
+        <name>force</name>
+        <value>no</value>
+    </metric>
+    <metric>
+        <name>cygwin</name>
+        <value>no</value>
+    </metric>
+    <metric>
+        <name>failures</name>
+        <value>0</value>
+    </metric>
+    <metric>
+        <name>successes</name>
+        <value>1</value>
+    </metric>
+    <metric>
+        <name>recoverable-errors</name>
+        <value>0</value>
+    </metric>
+    <metric>
+        <name>dotnet-webapps-detected</name>
+        <value>0</value>
+    </metric>
+    <metric>
+        <name>dotnet-webapp-successes</name>
+        <value>0</value>
+    </metric>
+    <metric>
+        <name>dotnet-webapp-compilation-secs</name>
+        <value>0</value>
+    </metric>
+    <metric>
+        <name>buildcmd</name>
+        <value>make -j 4</value>
+    </metric>
+</metrics>
+</coverity>
